@@ -1,2 +1,2 @@
 # iOS-Swift-Code-Samples
-Bits of useful code in native iOS Application Development using Swift.
+Bits of useful code while developing native iOS Application using Swift.

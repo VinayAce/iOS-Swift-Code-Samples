@@ -22,7 +22,7 @@ pod 'AceWebServiceInjector'
 
 ## Author
 
-vinay.reddy@stupaanalytics.com, vinayreddy.ace@gmail.com
+vinayreddy.ace@gmail.com
 
 ## License
 

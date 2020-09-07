@@ -1,0 +1,22 @@
+{
+  "name": "AceWebServiceInjector",
+  "version": "0.1.0",
+  "summary": "A short description of AceWebServiceInjector.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vinay.reddy@stupaanalytics.com/AceWebServiceInjector",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vinay.reddy@stupaanalytics.com": "vinayreddy.ace@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/vinay.reddy@stupaanalytics.com/AceWebServiceInjector.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AceWebServiceInjector/Classes/**/*"
+}

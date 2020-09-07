@@ -1,0 +1,6 @@
+framework module AceWebServiceInjector {
+  umbrella header "AceWebServiceInjector-umbrella.h"
+
+  export *
+  module * { export * }
+}

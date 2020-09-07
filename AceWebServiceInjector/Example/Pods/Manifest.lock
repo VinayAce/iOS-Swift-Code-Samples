@@ -1,0 +1,16 @@
+PODS:
+  - AceWebServiceInjector (0.1.0)
+
+DEPENDENCIES:
+  - AceWebServiceInjector (from `../`)
+
+EXTERNAL SOURCES:
+  AceWebServiceInjector:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AceWebServiceInjector: 1527e7f1647e16507b7b5e887779bca893a85734
+
+PODFILE CHECKSUM: f6f05c552b86ef585d3f40fc62f35666560c5148
+
+COCOAPODS: 1.9.3
